@@ -1,1 +1,1 @@
-# grafana-solor-datasource
+# grafana-solr-datasource
